@@ -1,0 +1,94 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+html{
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    color:white;
+    background: pink;
+    background: linear-gradient(266deg, pink 0% pink 100%);
+    font-family: 'Raleway', sans-serif;
+}
+.avatar {
+    width: 150px;
+    border-radius: 600px;
+    border: 3px solid white;
+    box-shadow: 0 0 20px white;
+}
+h1{
+    font-family:'Architects Daughter' , cursive;
+    font-weight: 100;
+    font-size:24px;
+    margin-bottom: 2px;
+}
+h2{
+    font-size: 16px;
+}
+
+.profile {
+    text-align: center;
+    margin-top: 20px;
+}
+.social { 
+    display:block;
+    list-style: none;
+    margin: 20px 0;
+    margin-bottom: 50px;
+    background: white;
+    padding: 15px 20px;
+    border-radius: 50px;
+    border: 3px solid white;
+    box-shadow: 0 0 20px white;
+    text-align: center;
+   
+}
+.social img {
+    width: 33px;
+}
+
+.top{
+    display:block;
+    list-style: none;
+    margin: 20px 0;
+    margin-bottom: 50px;
+    background:white;
+    padding: 15px 20px;
+    border-radius: 50px;
+    font-weight: bold;
+    border: 3px solid white;
+    box-shadow: 0 0 20px white;
+    text-align: center;
+    
+    
+}
+.top img{
+    width: 33px;
+}
+.bot{
+    display:block;
+    list-style: none;
+    margin: 20px 0;
+    margin-bottom: 50px;
+    background: white;
+    padding: 15px 20px;
+    border-radius: 50px;
+    border: 3px solid white;
+    box-shadow: 0 0 20px white;
+    text-align: center;
+    
+    
+}
+.bot img{
+    width: 33px;
+}
+
+
+
+
+
